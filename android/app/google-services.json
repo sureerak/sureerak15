@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "463200749193",
+    "firebase_url": "https://onlineshopdb-5c273-default-rtdb.firebaseio.com",
+    "project_id": "onlineshopdb-5c273",
+    "storage_bucket": "onlineshopdb-5c273.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463200749193:android:59628b7aca58360fdee858",
+        "android_client_info": {
+          "package_name": "com.example.onlineapp_ging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hJ6Z1s3eOlP6KHY9iX_DDO0C2wNpxdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
